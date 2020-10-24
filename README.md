@@ -5,6 +5,9 @@ Altium Designer files are to come along with PCB designs in the future.
 Consider this project in its pre-Alpha stage with ZERO testing and verification. 
 This whole design has been based on reference designs/guidance from Diligent, Xilinx, FTDI and Analog Devices.
 
+This design is fully open source and free for anyone to use, copy, or whatever else you'd like. 
+
+
 All Datasheets and reference info can be found below: 
 
 FT601:
