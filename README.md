@@ -7,6 +7,7 @@ This whole design has been based on reference designs/guidance from Diligent, Xi
 
 This design is fully open source and free for anyone to use, copy, or whatever else you'd like. 
 
+![Rev1 Board](https://imgur.com/a/vp3y3bE)
 
 All Datasheets and reference info can be found below: 
 
