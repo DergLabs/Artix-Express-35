@@ -24,8 +24,15 @@ https://www.ftdichip.com/Support/Documents/DataSheets/ICs/DS_FT600Q-FT601Q%20IC%
 **Layout Guidelines:**
 https://www.ftdichip.com/Support/Documents/AppNotes/AN_430%20FT60X%20PCB%20Layout%20Guidelines.pdf
 
+
+
+
 Arty-A7 Refrence Design:
+
 https://reference.digilentinc.com/_media/reference/programmable-logic/arty-a7/arty_a7_sch.pdf
+
+
+
 
 Xilinx 7-Series Documentation:
 
