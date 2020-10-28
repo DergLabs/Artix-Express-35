@@ -4,10 +4,11 @@
 
 This is a base design for an Artix-7 35T based FPGA card with PCIE and USB interface. This is meant as an open source, DIY alternative to commercial PCIE FPGA development cards and to be a learning experience for me in high speed complex FPGA design.
 
-Altium Designer files are to come along with PCB designs in the future. 
-
 Consider this project in its pre-Alpha stage with **ZERO testing and verification.** 
 This whole design has been based on reference designs/guidance from Diligent, Xilinx, and FTDI.
+
+**How to open:**
+Download the "Artix Express V3 - NO DDR3" rar file. Extract it and open the folder. Open the "Artix Express.DsnWrk" file in altium. All files should open with it in the project. If not, they can be found in the project folder. 
 
 This design is fully open source and free for anyone to use, copy, or whatever else you'd like. 
 
@@ -16,6 +17,7 @@ This design is fully open source and free for anyone to use, copy, or whatever e
 2. Add length matching for USB FIFO data lines
 3. Add DDR3
 4. Do final impedance matching for all critical data lines
+5. Add KiCad files
 
 **Rev3 Board Design:**
 ![Rev3 Board](https://i.imgur.com/xOjqv3y.png)
