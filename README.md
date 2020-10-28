@@ -12,7 +12,7 @@ This whole design has been based on reference designs/guidance from Diligent, Xi
 This design is fully open source and free for anyone to use, copy, or whatever else you'd like. 
 
 **Rev3 Board Design:**
-![Rev3 Board](https://imgur.com/gallery/yaByagm)
+![Rev3 Board](https://i.imgur.com/xOjqv3y.png)
 
 All Datasheets and reference info can be found below: 
 
