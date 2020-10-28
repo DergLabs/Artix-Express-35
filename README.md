@@ -18,6 +18,7 @@ This design is fully open source and free for anyone to use, copy, or whatever e
 3. Add DDR3
 4. Do final impedance matching for all critical data lines
 5. Add KiCad files
+6. General layout improvements
 
 **Rev3 Board Design:**
 ![Rev3 Board](https://i.imgur.com/xOjqv3y.png)
