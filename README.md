@@ -17,33 +17,36 @@ This design is fully open source and free for anyone to use, copy, or whatever e
 All Datasheets and reference info can be found below: 
 
 FT601:
-**Datasheet**
+
+**Datasheet:**
 https://www.ftdichip.com/Support/Documents/DataSheets/ICs/DS_FT600Q-FT601Q%20IC%20Datasheet.pdf
-**Layout Guidelines**
+
+**Layout Guidelines:**
 https://www.ftdichip.com/Support/Documents/AppNotes/AN_430%20FT60X%20PCB%20Layout%20Guidelines.pdf
 
 Arty-A7 Refrence Design:
 https://reference.digilentinc.com/_media/reference/programmable-logic/arty-a7/arty_a7_sch.pdf
 
 Xilinx 7-Series Documentation:
-**Pinout**
+
+**Pinout:**
 https://www.xilinx.com/support/documentation/user_guides/ug475_7Series_Pkg_Pinout.pdf
 
-**Chip Overview**
+**Chip Overview:**
 https://www.xilinx.com/support/documentation/data_sheets/ds180_7Series_Overview.pdf
 
-**PCIE Setup**
+**PCIE Setup:**
 https://www.xilinx.com/support/documentation/ip_documentation/pcie_7x/v3_0/pg054-7series-pcie.pdf
 
-**Using trancievers**
+**Using trancievers:**
 https://www.xilinx.com/support/documentation/user_guides/ug482_7Series_GTP_Transceivers.pdf
 
-**Artix-7 Datasheet**
+**Artix-7 Datasheet:**
 https://www.xilinx.com/support/documentation/data_sheets/ds181_Artix_7_Data_Sheet.pdf
 
-**DDR Layout Guidelines**
+**DDR Layout Guidelines:**
 https://www.xilinx.com/support/documentation/white_papers/wp484-a7-s7-ddr2-3-pcb.pdf
 
-**Desigining Custom Memory interface**
+**Desigining Custom Memory interface:**
 https://www.xilinx.com/support/documentation/ip_documentation/ug586_7Series_MIS.pdf
 
