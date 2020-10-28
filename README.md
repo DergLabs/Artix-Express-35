@@ -11,6 +11,12 @@ This whole design has been based on reference designs/guidance from Diligent, Xi
 
 This design is fully open source and free for anyone to use, copy, or whatever else you'd like. 
 
+**Upcoming Changes:**
+1. Improve PCIE layout
+2. Add length matching for USB FIFO data lines
+3. Add DDR3
+4. Do final impedance matching for all critical data lines
+
 **Rev3 Board Design:**
 ![Rev3 Board](https://i.imgur.com/xOjqv3y.png)
 
@@ -24,15 +30,9 @@ https://www.ftdichip.com/Support/Documents/DataSheets/ICs/DS_FT600Q-FT601Q%20IC%
 **Layout Guidelines:**
 https://www.ftdichip.com/Support/Documents/AppNotes/AN_430%20FT60X%20PCB%20Layout%20Guidelines.pdf
 
-
-
-
 Arty-A7 Refrence Design:
 
 https://reference.digilentinc.com/_media/reference/programmable-logic/arty-a7/arty_a7_sch.pdf
-
-
-
 
 Xilinx 7-Series Documentation:
 
