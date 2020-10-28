@@ -1,5 +1,9 @@
 # FPGA-PCIE-Card
-This is a base design for an Artix-7 35T based FPGA card with PCIE and USB interface. This is meant as an open source, DIY alternative to commercial PCIE FPGA development cards.
+
+**Current Revision: 3**
+
+This is a base design for an Artix-7 35T based FPGA card with PCIE and USB interface. This is meant as an open source, DIY alternative to commercial PCIE FPGA development cards and to be a learning experience for me in high speed complex FPGA design.
+
 Altium Designer files are to come along with PCB designs in the future. 
 
 Consider this project in its pre-Alpha stage with **ZERO testing and verification.** 
@@ -7,8 +11,8 @@ This whole design has been based on reference designs/guidance from Diligent, Xi
 
 This design is fully open source and free for anyone to use, copy, or whatever else you'd like. 
 
-**Rev1 Board Design:**
-![Rev1 Board](https://i.imgur.com/0BwKVfH.png)
+**Rev3 Board Design:**
+![Rev3 Board](https://imgur.com/gallery/yaByagm)
 
 All Datasheets and reference info can be found below: 
 
