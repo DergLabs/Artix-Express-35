@@ -28,16 +28,22 @@ https://reference.digilentinc.com/_media/reference/programmable-logic/arty-a7/ar
 Xilinx 7-Series Documentation:
 **Pinout**
 https://www.xilinx.com/support/documentation/user_guides/ug475_7Series_Pkg_Pinout.pdf
+
 **Chip Overview**
 https://www.xilinx.com/support/documentation/data_sheets/ds180_7Series_Overview.pdf
+
 **PCIE Setup**
 https://www.xilinx.com/support/documentation/ip_documentation/pcie_7x/v3_0/pg054-7series-pcie.pdf
+
 **Using trancievers**
 https://www.xilinx.com/support/documentation/user_guides/ug482_7Series_GTP_Transceivers.pdf
+
 **Artix-7 Datasheet**
 https://www.xilinx.com/support/documentation/data_sheets/ds181_Artix_7_Data_Sheet.pdf
+
 **DDR Layout Guidelines**
 https://www.xilinx.com/support/documentation/white_papers/wp484-a7-s7-ddr2-3-pcb.pdf
+
 **Desigining Custom Memory interface**
 https://www.xilinx.com/support/documentation/ip_documentation/ug586_7Series_MIS.pdf
 
