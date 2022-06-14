@@ -1,6 +1,6 @@
 # FPGA-PCIE-Card
 
-**Current Revision: 3**
+**Current Revision: New Version Coming soon!**
 
 This is a base design for an Artix-7 35T based FPGA card with PCIE and USB interface. This is meant to be a learning experience for me in high speed complex FPGA design.
 
